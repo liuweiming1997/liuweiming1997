@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liuweiming1997
-- 👀 I’m interested in Python/Automation/Any Freamwork
-- 🌱 I’m currently learning golang/it`s fucking IDE
+- 👀 I’m interested in Python/Automation/React/Dag Freamwork
 - 📫 How to reach me: 13602805326
 
 <!---
